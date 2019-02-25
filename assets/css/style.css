@@ -13,7 +13,9 @@
 	font-size: inherit;
 }
 #cr{
-  color: blue;
+  color:white;
+  text-align: center;
+ 
 }
 main{
   display: grid;
