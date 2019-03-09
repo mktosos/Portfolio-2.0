@@ -14,7 +14,7 @@
 }
 #cr{
   color:white;
-  text-align: center;
+  position: relative;
  
 }
 main{
@@ -32,4 +32,9 @@ img {
 }  
 #profilePic{
   height:100%;
+}
+#logo-container {
+  position: relative;
+  bottom: 10px;
+  left: 0
 }
